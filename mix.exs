@@ -1,7 +1,9 @@
 defmodule Tiktoken.MixProject do
   use Mix.Project
 
-  @version "0.1.0" # Needs to be a module var for the GHA to work
+  # Needs to be a module var for the GHA to work, but don't put the comment on
+  # the same line because the regex will mess up.
+  @version "0.1.0"
   @source_url "https://github.com/cjbottaro/tiktoken_ex"
 
   def project do
