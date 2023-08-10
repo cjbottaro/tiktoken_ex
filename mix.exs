@@ -1,12 +1,13 @@
 defmodule Tiktoken.MixProject do
   use Mix.Project
 
+  @version "0.1.0" # Needs to be a module var for the GHA to work
   @source_url "https://github.com/cjbottaro/tiktoken_ex"
 
   def project do
     [
       app: :tiktoken,
-      version: "0.1.0",
+      version: @version,
       elixir: "~> 1.15",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
