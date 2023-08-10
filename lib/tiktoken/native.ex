@@ -7,7 +7,7 @@ defmodule Tiktoken.Native do
   use RustlerPrecompiled, otp_app: :tiktoken,
     base_url: "#{source_url}/releases/download/v#{version}",
     force_build: System.get_env("FORCE_TIKTOKEN_BUILD") not in [nil, ""],
-    targets: RustlerPrecompiled.Config.default_targets(),
+    targets: RustlerPrecompiled.Config.default_targets() -- ["x86_64-pc-windows-gnu", "x86_64-pc-windows-msvc"],
     nif_versions: ["2.16", "2.15"],
     version: version
 

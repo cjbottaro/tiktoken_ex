@@ -1,0 +1,18 @@
+%{
+  "libtiktoken-v0.1.0-nif-2.15-aarch64-apple-darwin.so.tar.gz" => "sha256:dbb202529e646585989f565b95766dbe87a07291504591043e730d8cafb85372",
+  "libtiktoken-v0.1.0-nif-2.15-aarch64-unknown-linux-gnu.so.tar.gz" => "sha256:01e707a56b81b591ab7a7ce879e779095fbd8c0e1c83b42e229dd950fe59d9ad",
+  "libtiktoken-v0.1.0-nif-2.15-aarch64-unknown-linux-musl.so.tar.gz" => "sha256:9192ab83d177dba81594b2dfa3547b3c35f8088742e0b85b1d135979f3470820",
+  "libtiktoken-v0.1.0-nif-2.15-arm-unknown-linux-gnueabihf.so.tar.gz" => "sha256:edb3f26901fd41a05d8d9a762d369b081283ef27d0118ffba8274187a80e1770",
+  "libtiktoken-v0.1.0-nif-2.15-riscv64gc-unknown-linux-gnu.so.tar.gz" => "sha256:04f5869112a96a57303ae37f8d6348423678c39c803aff253ffba5f9ffbc2bed",
+  "libtiktoken-v0.1.0-nif-2.15-x86_64-apple-darwin.so.tar.gz" => "sha256:5083ca38e13c1ee74a4d2ca1beda8494b2899cb4ce3eba86a0fb048575f136e1",
+  "libtiktoken-v0.1.0-nif-2.15-x86_64-unknown-linux-gnu.so.tar.gz" => "sha256:0bc97cc1677c4128f0c034e70fd6ba6536f0768531c7c6f9cdbe9dec4792bbfb",
+  "libtiktoken-v0.1.0-nif-2.15-x86_64-unknown-linux-musl.so.tar.gz" => "sha256:14cbc27bb1dc3d0b58ca50d878c62daf5e008d88be5d27989e82f4fe8470d884",
+  "libtiktoken-v0.1.0-nif-2.16-aarch64-apple-darwin.so.tar.gz" => "sha256:c9ef927134c4e1e79ffd21e088cd848e5a44bcbb58cbd4e26e479a17eadd4644",
+  "libtiktoken-v0.1.0-nif-2.16-aarch64-unknown-linux-gnu.so.tar.gz" => "sha256:62b446f179c557b55cf6ae46dfe98a72f4c696cebd082460c579780089a7884d",
+  "libtiktoken-v0.1.0-nif-2.16-aarch64-unknown-linux-musl.so.tar.gz" => "sha256:1566001130a31f45f099bd5fd05fde1781e7c8a8c5ef4e6470808dc26d1c2197",
+  "libtiktoken-v0.1.0-nif-2.16-arm-unknown-linux-gnueabihf.so.tar.gz" => "sha256:5796200f4c4a4bb7ab94f6f6af39486b31e0a581da2897e823e3688e53465bab",
+  "libtiktoken-v0.1.0-nif-2.16-riscv64gc-unknown-linux-gnu.so.tar.gz" => "sha256:779217164cb53395df85097039d2ad2955e78c95680b4c26ac276cfbca75f2c8",
+  "libtiktoken-v0.1.0-nif-2.16-x86_64-apple-darwin.so.tar.gz" => "sha256:5a178adefda0adc9e4f98b3102ae148c545f5389e3f5db2360f5fcf63bdce2b8",
+  "libtiktoken-v0.1.0-nif-2.16-x86_64-unknown-linux-gnu.so.tar.gz" => "sha256:3d0532213a1662e4a419cabd6f142fcb3be68fd6f7c681cd62e79e2761ff3f90",
+  "libtiktoken-v0.1.0-nif-2.16-x86_64-unknown-linux-musl.so.tar.gz" => "sha256:107f15d3df02f10ed3bf221e2dcecf02416100c5a5a498c6f00ca341973b7d8d",
+}
