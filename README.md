@@ -39,6 +39,6 @@ iex> Tiktoken.num_tokens_from_messages([%{role: "system", content: "You are a go
 iex> Tiktoken.get_chat_completion_max_tokens([%{role: "system", content: "You are a good bot."}])
 4082
 
-Tiktoken.get_chat_completion_max_tokens([%{role: "system", content: "You are a good bot."}], model: "gpt-4")
+iex> Tiktoken.get_chat_completion_max_tokens([%{role: "system", content: "You are a good bot."}], model: "gpt-4")
 8179
 ```
